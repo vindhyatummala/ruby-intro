@@ -11,9 +11,10 @@
 # as well.
 
 die1 = rand(1..6)
+puts die1
+
 die2 = rand(1..6)
-puts "#{die1}
-#{die2}"
+puts die2
 
 # HINTS
 # Get a random number between 1 and 6 by doing:
